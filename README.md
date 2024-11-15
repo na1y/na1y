@@ -6,7 +6,7 @@
 
 ## 🔧 技能與技術
 
-- **程式語言**：Python、JavaScript、Java、php（或您熟悉的語言）
+- **程式語言**：Python、JavaScript、Java、PHP
 - **框架/函式庫**：TensorFlow、PyTorch
 - **工具**：Git、VSCode
 - **其他專長**：
@@ -28,12 +28,6 @@
 
 ## 🌱 目前正在學習
 
-- 提升在 [您正在學習的技術，例如 Docker/Kubernetes] 方面的技能
-
----
-
-## 📫 聯絡我
-
-- **電子郵件**：your.email@example.com
+- 提升在 電腦視覺與人體姿態分析 方面的技能
 
 ---
